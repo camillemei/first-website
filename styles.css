@@ -35,8 +35,8 @@ img {
     border-radius: 20px;
 }
 
-#clock {
-    font-family: 'Arial', sans-serif;
-    font-size: 5rem;
+#countdown {
+    font-family: sans-serif;
+    font-size: 3rem;
     color: white;
 }
