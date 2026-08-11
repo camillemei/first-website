@@ -9,7 +9,7 @@ main {
 }
 
 body {
-    background-color: cadetblue;
+    background-color: rgb(251, 162, 177);
     color: white;
 }
 
@@ -24,7 +24,19 @@ h2{
     font-weight: 500;
 }
 
+.section1 {
+    background-color:rgb(250, 184, 195);
+    width: 300px;
+    padding: 20px;
+}
+
 img {
     width: 600px;
     border-radius: 20px;
+}
+
+#clock {
+    font-family: 'Arial', sans-serif;
+    font-size: 5rem;
+    color: white;
 }
