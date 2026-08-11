@@ -1,3 +1,3 @@
 function ClickHello() {
-    alert("Hello");
+    alert("omg a new message?! how cool!!!");
 }
